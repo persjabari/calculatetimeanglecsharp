@@ -1,0 +1,5 @@
+@CalculateTimeAngle_HostAddress = http://localhost:5274
+
+GET {{CalculateTimeAngle_HostAddress}}/CalculateTimeAngle
+
+###
